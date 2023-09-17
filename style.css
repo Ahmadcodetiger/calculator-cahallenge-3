@@ -6,6 +6,7 @@
     font-family: ;
 }
 .container{
+    margin: 20px;
     width: 100%;
     height: 100vh;
     background: #e3f9ff;
